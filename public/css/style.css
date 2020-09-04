@@ -1,0 +1,19 @@
+.stretched-link{
+  text-decoration: none;
+  color: #0066c0;
+}
+.carousel_title{
+  font-family: "Times New Roman", Times, serif;
+}
+.carousel_title2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.font_boutique{
+  font-family: Poppins, sans-serif;
+}
+.card-body{
+  padding-top: 1rem ;
+  padding-right: 1.25rem ;
+  padding-bottom: 1rem ;
+  padding-left: 1.25rem;
+}
